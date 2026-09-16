@@ -1,3 +1,7 @@
+## Parcours français
+
+Consulter le parcours documentaire francophone consacré à Foundry dans [docs/fr](docs/fr/).
+
 <div align="center">
   <img src=".github/assets/banner.png" alt="Foundry banner" />
 
